@@ -1,16 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:22.870396
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:58
 #+TITLE: 般若心經開度
 #+PROPERTY: CBETA_ID X26n0550
 #+PROPERTY: ID KR6c0169
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 26, No. 550
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0169_X_001-0854b> 
 #+PROPERTY: JUAN 1
 
-No.550-A心經開度說¶
+* No. 550-A¶
+ 心經開度說¶
 
 修心萬行。智慧為先。罔明般若。臨流失筏。故初祖西¶
 來。直指人心。見性成佛。以續慧命。五傳而至黃梅。則¶
@@ -38,10 +39,8 @@ No.550-A心經開度說¶
 般若。乃六度萬行之首。西乾四七。東震二三。之所傳¶
 持實在于此。苟欲開度來學。舍此奚將。本開度聽說。¶
 以開度標名。得當焉。
-新安沙門羅峯墮道人書
-心經開度No.550¶
-
- 心經開度¶
+新安沙門羅峯墮道人書No. 550¶
+心經開度¶
 明新安沙門釋　羅峯弘丽　著¶
 
 「般若波羅蜜多心經」¶
